@@ -35,6 +35,7 @@
   "course_title": "Advanced Essay Workshop",
   "course_description": "This course is a workshop for students with some experience in writing essays, nonfiction prose. Our focus will be negotiating and representing identities grounded in gender, race, class, nationality, sexuality, and other categories of identity, either our own or others', in prose that is expository, exploratory, investigative, persuasive, lyrical, or incantatory. We will read nonfiction prose works by a wide array of writers who have used language to negotiate and represent aspects of identity and the ways the different determinants of identity intersect, compete, and cooperate.\n",
   "department_numbers": [
+    "CMS-W",
     "WGS"
   ],
   "extra_course_numbers": "WGS.576",
@@ -47,6 +48,7 @@
     "Presentation Assignments",
     "Written Assignments with Examples"
   ],
-  "site_uid": "cf011c24-7279-4499-8bfe-0fad40653122",
+  "site_uid": "d3de3652-6275-474b-8b97-628b6c6ce4dc",
+  "short_id": "21w.745-spring-2008",
   "title": "Course Metadata"
 }

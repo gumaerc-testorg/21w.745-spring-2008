@@ -1,8 +1,8 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: ''
 title: Assignments
-type: CourseSection
 uid: 68c5f105-b2f2-3180-3f7d-ad68226bd4d8
 ---
 
@@ -134,7 +134,7 @@ ASSIGNMENTS
 Natania Antler
 {{< tdclose >}}
 {{< tdopen >}}
-I Don't Care: Apathy, Rebellion and Beyond ([PDF]({{< baseurl >}}/resources/mit21w_745s08_idncr_ayre)) (Courtesy of Natania Antler. Used with permission.)
+I Don't Care: Apathy, Rebellion and Beyond ({{% resource_link e960872a-e7c3-1dc9-f90d-7f41cf8a9707 "PDF" %}}) (Courtesy of Natania Antler. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +143,7 @@ I Don't Care: Apathy, Rebellion and Beyond ([PDF]({{< baseurl >}}/resources/mit2
 Christina Yiwei Zhang
 {{< tdclose >}}
 {{< tdopen >}}
-(Don't) Color Me Yellow ([PDF]({{< baseurl >}}/resources/mit21w_745s08_don_col)) (Courtesy of Christina Yiwei Zhang. Used with permission.)
+(Don't) Color Me Yellow ({{% resource_link bd153236-b9f3-0c8a-595c-a10d119e3ca6 "PDF" %}}) (Courtesy of Christina Yiwei Zhang. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +152,7 @@ Christina Yiwei Zhang
 MIT Student
 {{< tdclose >}}
 {{< tdopen >}}
-Remembering Bogalusa ([PDF]({{< baseurl >}}/resources/mit21w_745s08_rembrg_bogsa)) (Courtesy of MIT Student. Used with permission.)
+Remembering Bogalusa ({{% resource_link 90ce63ea-d829-6c15-8f8e-ec8638074a3b "PDF" %}}) (Courtesy of MIT Student. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
