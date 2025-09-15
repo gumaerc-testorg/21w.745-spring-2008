@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains the information regarding (don\u2019t) color\
   \ me yellow."
-file: /courses/21w-745-advanced-essay-workshop-spring-2008/bd153236b9f30c8a595ca10d119e3ca6_MIT21W_745S08_don_col.pdf
+file: /ol-ocw-studio-app/courses/21w-745-advanced-essay-workshop-spring-2008/bd153236b9f30c8a595ca10d119e3ca6_MIT21W_745S08_don_col.pdf
+file_size: 154835
 file_type: application/pdf
 learning_resource_types:
 - Assignments

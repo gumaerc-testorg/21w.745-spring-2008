@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains the information regarding i don''t care: apathy,
   rebellion and beyond.'
-file: /courses/21w-745-advanced-essay-workshop-spring-2008/e960872ae7c31dc9f90d7f41cf8a9707_MIT21W_745S08_idncr_ayre.pdf
+file: /ol-ocw-studio-app/courses/21w-745-advanced-essay-workshop-spring-2008/e960872ae7c31dc9f90d7f41cf8a9707_MIT21W_745S08_idncr_ayre.pdf
+file_size: 198647
 file_type: application/pdf
 learning_resource_types:
 - Assignments

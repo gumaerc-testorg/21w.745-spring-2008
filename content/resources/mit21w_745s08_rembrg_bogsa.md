@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the information regarding remembering bogalusa.
-file: /courses/21w-745-advanced-essay-workshop-spring-2008/90ce63ead8296c158f8eec8638074a3b_MIT21W_745S08_rembrg_bogsa.pdf
+file: /ol-ocw-studio-app/courses/21w-745-advanced-essay-workshop-spring-2008/90ce63ead8296c158f8eec8638074a3b_MIT21W_745S08_rembrg_bogsa.pdf
+file_size: 74562
 file_type: application/pdf
 learning_resource_types:
 - Assignments
